@@ -1,0 +1,1 @@
+This project is vased on licence detection.After programming all the proper codes,execute the program.If the program is correct you will get expected result,and it will detect the licence as per you have codded.
